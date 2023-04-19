@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xandermontel
 - 👀 I’m interested in fitness, self-growth, and traveling
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Data Analytics
 - 📫 Find me on LinkedIn & IG: [here](https://www.linkedin.com/in/alexmontelmiller/) & [here](https://www.instagram.com/am__iller/)
 
 <!---
